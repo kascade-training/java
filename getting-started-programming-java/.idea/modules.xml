@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/09/demos/exercise-files/after/CalcEngine/CalcEngine.iml" filepath="$PROJECT_DIR$/09/demos/exercise-files/after/CalcEngine/CalcEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/exercise-files/after/CalcEngine/CalcEngine1.iml" filepath="$PROJECT_DIR$/05/demos/exercise-files/after/CalcEngine/CalcEngine1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08/demos/exercise-files/after/CalcEngine/CalcEngine2.iml" filepath="$PROJECT_DIR$/08/demos/exercise-files/after/CalcEngine/CalcEngine2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/exercise-files/after/CalcEngine/CalcEngine3.iml" filepath="$PROJECT_DIR$/06/demos/exercise-files/after/CalcEngine/CalcEngine3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/exercise-files/after/CalcEngine/CalcEngine4.iml" filepath="$PROJECT_DIR$/04/demos/exercise-files/after/CalcEngine/CalcEngine4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02/demos/exercise-files/after/FirstApp/FirstApp.iml" filepath="$PROJECT_DIR$/02/demos/exercise-files/after/FirstApp/FirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/exercise-files/after/LetsGetLogical/LetsGetLogical.iml" filepath="$PROJECT_DIR$/04/demos/exercise-files/after/LetsGetLogical/LetsGetLogical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/exercise-files/before/OperatorPrecedence/OperatorPrecedence.iml" filepath="$PROJECT_DIR$/03/demos/exercise-files/before/OperatorPrecedence/OperatorPrecedence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/exercise-files/after/OperatorPrecedence/OperatorPrecedence1.iml" filepath="$PROJECT_DIR$/03/demos/exercise-files/after/OperatorPrecedence/OperatorPrecedence1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02/demos/exercise-files/after/Organized/Organized.iml" filepath="$PROJECT_DIR$/02/demos/exercise-files/after/Organized/Organized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/exercise-files/after/SlideArrayExamples/SlideArrayExamples.iml" filepath="$PROJECT_DIR$/05/demos/exercise-files/after/SlideArrayExamples/SlideArrayExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/exercise-files/after/SlideCommandLineExample/SlideCommandLineExample.iml" filepath="$PROJECT_DIR$/06/demos/exercise-files/after/SlideCommandLineExample/SlideCommandLineExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09/demos/exercise-files/after/SlideDateTimeExample/SlideDateTimeExample.iml" filepath="$PROJECT_DIR$/09/demos/exercise-files/after/SlideDateTimeExample/SlideDateTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08/demos/exercise-files/after/SlideFormattingExample/SlideFormattingExample.iml" filepath="$PROJECT_DIR$/08/demos/exercise-files/after/SlideFormattingExample/SlideFormattingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/exercise-files/after/SlideLoopExamples/SlideLoopExamples.iml" filepath="$PROJECT_DIR$/05/demos/exercise-files/after/SlideLoopExamples/SlideLoopExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/exercise-files/after/SlideReturnValueExample/SlideReturnValueExample.iml" filepath="$PROJECT_DIR$/06/demos/exercise-files/after/SlideReturnValueExample/SlideReturnValueExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/exercise-files/after/SlideShowSumExample/SlideShowSumExample.iml" filepath="$PROJECT_DIR$/06/demos/exercise-files/after/SlideShowSumExample/SlideShowSumExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/exercise-files/after/SlideSwapExample/SlideSwapExample.iml" filepath="$PROJECT_DIR$/06/demos/exercise-files/after/SlideSwapExample/SlideSwapExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/exercise-files/before/TypeConversion/TypeConversion.iml" filepath="$PROJECT_DIR$/03/demos/exercise-files/before/TypeConversion/TypeConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/exercise-files/after/TypeConversion/TypeConversion1.iml" filepath="$PROJECT_DIR$/03/demos/exercise-files/after/TypeConversion/TypeConversion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/exercise-files/after/after.iml" filepath="$PROJECT_DIR$/07/demos/exercise-files/after/after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/exercise-files/before/before.iml" filepath="$PROJECT_DIR$/04/demos/exercise-files/before/before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/exercise-files/before/before1.iml" filepath="$PROJECT_DIR$/05/demos/exercise-files/before/before1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/exercise-files/before/before2.iml" filepath="$PROJECT_DIR$/06/demos/exercise-files/before/before2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/exercise-files/before/before3.iml" filepath="$PROJECT_DIR$/07/demos/exercise-files/before/before3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08/demos/exercise-files/before/before4.iml" filepath="$PROJECT_DIR$/08/demos/exercise-files/before/before4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09/demos/exercise-files/before/before5.iml" filepath="$PROJECT_DIR$/09/demos/exercise-files/before/before5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/getting-started-programming-java.iml" filepath="$PROJECT_DIR$/.idea/getting-started-programming-java.iml" />
+    </modules>
+  </component>
+</project>
